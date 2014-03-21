@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/pineApple/!svn/ver/311/trunk/DegreeAdvisor/test/edu/calpoly/razsoftware/renderer
+END
+CourseRendererIntTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/pineApple/!svn/ver/252/trunk/DegreeAdvisor/test/edu/calpoly/razsoftware/renderer/CourseRendererIntTest.java
+END
+FakeFlowchart2.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/pineApple/!svn/ver/253/trunk/DegreeAdvisor/test/edu/calpoly/razsoftware/renderer/FakeFlowchart2.java
+END
+CourseRendererTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/pineApple/!svn/ver/300/trunk/DegreeAdvisor/test/edu/calpoly/razsoftware/renderer/CourseRendererTest.java
+END
+FakeCourse2.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/pineApple/!svn/ver/238/trunk/DegreeAdvisor/test/edu/calpoly/razsoftware/renderer/FakeCourse2.java
+END
+FakeRequirement2.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/pineApple/!svn/ver/311/trunk/DegreeAdvisor/test/edu/calpoly/razsoftware/renderer/FakeRequirement2.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/pineApple/!svn/ver/233/trunk/DegreeAdvisor/coverage
+END
+emmascript.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/pineApple/!svn/ver/213/trunk/DegreeAdvisor/coverage/emmascript.xml
+END
+coverage.emma
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/pineApple/!svn/ver/233/trunk/DegreeAdvisor/coverage/coverage.emma
+END
+template.emma
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/pineApple/!svn/ver/233/trunk/DegreeAdvisor/coverage/template.emma
+END

@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/pineApple/!svn/ver/349/trunk/DegreeAdvisor/test/edu/calpoly/razsoftware
+END
+CreatorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/pineApple/!svn/ver/335/trunk/DegreeAdvisor/test/edu/calpoly/razsoftware/CreatorTest.java
+END
+CourseTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/pineApple/!svn/ver/330/trunk/DegreeAdvisor/test/edu/calpoly/razsoftware/CourseTest.java
+END
+CourseDetailsViewOldTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/pineApple/!svn/ver/320/trunk/DegreeAdvisor/test/edu/calpoly/razsoftware/CourseDetailsViewOldTest.java
+END
+DegreechartReaderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/pineApple/!svn/ver/238/trunk/DegreeAdvisor/test/edu/calpoly/razsoftware/DegreechartReaderTest.java
+END
+RequirementTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/pineApple/!svn/ver/238/trunk/DegreeAdvisor/test/edu/calpoly/razsoftware/RequirementTest.java
+END
+CourseDetailsViewTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/pineApple/!svn/ver/320/trunk/DegreeAdvisor/test/edu/calpoly/razsoftware/CourseDetailsViewTest.java
+END
+DatabaseTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/pineApple/!svn/ver/314/trunk/DegreeAdvisor/test/edu/calpoly/razsoftware/DatabaseTest.java
+END
+FlowchartIntTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/pineApple/!svn/ver/349/trunk/DegreeAdvisor/test/edu/calpoly/razsoftware/FlowchartIntTest.java
+END
+FlowchartAppDefectTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/pineApple/!svn/ver/338/trunk/DegreeAdvisor/test/edu/calpoly/razsoftware/FlowchartAppDefectTest.java
+END
+DegreeAdvisorIntTestSuite.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/pineApple/!svn/ver/342/trunk/DegreeAdvisor/test/edu/calpoly/razsoftware/DegreeAdvisorIntTestSuite.java
+END
+CatalogTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/pineApple/!svn/ver/349/trunk/DegreeAdvisor/test/edu/calpoly/razsoftware/CatalogTest.java
+END
+FakeCourse3.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/pineApple/!svn/ver/238/trunk/DegreeAdvisor/test/edu/calpoly/razsoftware/FakeCourse3.java
+END
+FakeRequirement3.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/pineApple/!svn/ver/311/trunk/DegreeAdvisor/test/edu/calpoly/razsoftware/FakeRequirement3.java
+END
+UpdateReqDialogTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/pineApple/!svn/ver/331/trunk/DegreeAdvisor/test/edu/calpoly/razsoftware/UpdateReqDialogTest.java
+END
+CourseDetailsViewOldIntTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/pineApple/!svn/ver/320/trunk/DegreeAdvisor/test/edu/calpoly/razsoftware/CourseDetailsViewOldIntTest.java
+END
+CourseDefect.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/pineApple/!svn/ver/300/trunk/DegreeAdvisor/test/edu/calpoly/razsoftware/CourseDefect.java
+END
+FlowcharterViewTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/pineApple/!svn/ver/319/trunk/DegreeAdvisor/test/edu/calpoly/razsoftware/FlowcharterViewTest.java
+END
+CourseDetailsViewIntTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/pineApple/!svn/ver/320/trunk/DegreeAdvisor/test/edu/calpoly/razsoftware/CourseDetailsViewIntTest.java
+END
+DatabaseIntTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/pineApple/!svn/ver/335/trunk/DegreeAdvisor/test/edu/calpoly/razsoftware/DatabaseIntTest.java
+END
+ControllerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/pineApple/!svn/ver/257/trunk/DegreeAdvisor/test/edu/calpoly/razsoftware/ControllerTest.java
+END
+FlowcharterViewIntTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/pineApple/!svn/ver/282/trunk/DegreeAdvisor/test/edu/calpoly/razsoftware/FlowcharterViewIntTest.java
+END
+FlowchartTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/pineApple/!svn/ver/343/trunk/DegreeAdvisor/test/edu/calpoly/razsoftware/FlowchartTest.java
+END
+CourseListTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/pineApple/!svn/ver/303/trunk/DegreeAdvisor/test/edu/calpoly/razsoftware/CourseListTest.java
+END
+FlowcharterAppIntTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/pineApple/!svn/ver/234/trunk/DegreeAdvisor/test/edu/calpoly/razsoftware/FlowcharterAppIntTest.java
+END
+DegreeAdvisorTestSuite.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/pineApple/!svn/ver/330/trunk/DegreeAdvisor/test/edu/calpoly/razsoftware/DegreeAdvisorTestSuite.java
+END
+ControllerIntTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/pineApple/!svn/ver/283/trunk/DegreeAdvisor/test/edu/calpoly/razsoftware/ControllerIntTest.java
+END
+ControllerDefect.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/pineApple/!svn/ver/300/trunk/DegreeAdvisor/test/edu/calpoly/razsoftware/ControllerDefect.java
+END

@@ -1,0 +1,227 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/pineApple/!svn/ver/352/trunk/DegreeAdvisor/src/edu/calpoly/razsoftware
+END
+CatalogTxtToJsonConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/pineApple/!svn/ver/330/trunk/DegreeAdvisor/src/edu/calpoly/razsoftware/CatalogTxtToJsonConverter.java
+END
+Course.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/pineApple/!svn/ver/330/trunk/DegreeAdvisor/src/edu/calpoly/razsoftware/Course.java
+END
+CourseDetailsViewOld.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/pineApple/!svn/ver/342/trunk/DegreeAdvisor/src/edu/calpoly/razsoftware/CourseDetailsViewOld.java
+END
+CourseDetailsView.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/pineApple/!svn/ver/342/trunk/DegreeAdvisor/src/edu/calpoly/razsoftware/CourseDetailsView.java
+END
+Catalog.json
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/pineApple/!svn/ver/350/trunk/DegreeAdvisor/src/edu/calpoly/razsoftware/Catalog.json
+END
+DegreeChart.json
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/pineApple/!svn/ver/347/trunk/DegreeAdvisor/src/edu/calpoly/razsoftware/DegreeChart.json
+END
+I_Course.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/pineApple/!svn/ver/324/trunk/DegreeAdvisor/src/edu/calpoly/razsoftware/I_Course.java
+END
+FakeCourse1.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/pineApple/!svn/ver/270/trunk/DegreeAdvisor/src/edu/calpoly/razsoftware/FakeCourse1.java
+END
+Catalog.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/pineApple/!svn/ver/349/trunk/DegreeAdvisor/src/edu/calpoly/razsoftware/Catalog.java
+END
+FlowcharterView.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/pineApple/!svn/ver/348/trunk/DegreeAdvisor/src/edu/calpoly/razsoftware/FlowcharterView.java
+END
+RequirementCreator.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/pineApple/!svn/ver/330/trunk/DegreeAdvisor/src/edu/calpoly/razsoftware/RequirementCreator.java
+END
+FlowcharterApp.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/pineApple/!svn/ver/351/trunk/DegreeAdvisor/src/edu/calpoly/razsoftware/FlowcharterApp.java
+END
+I_Catalog.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/pineApple/!svn/ver/324/trunk/DegreeAdvisor/src/edu/calpoly/razsoftware/I_Catalog.java
+END
+CourseDetailsView.form
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/pineApple/!svn/ver/320/trunk/DegreeAdvisor/src/edu/calpoly/razsoftware/CourseDetailsView.form
+END
+DegreeChart.csv
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/pineApple/!svn/ver/168/trunk/DegreeAdvisor/src/edu/calpoly/razsoftware/DegreeChart.csv
+END
+Flowchart.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/pineApple/!svn/ver/343/trunk/DegreeAdvisor/src/edu/calpoly/razsoftware/Flowchart.java
+END
+FakeDegreeChart.json
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/pineApple/!svn/ver/202/trunk/DegreeAdvisor/src/edu/calpoly/razsoftware/FakeDegreeChart.json
+END
+FlowcharterView.form
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/pineApple/!svn/ver/348/trunk/DegreeAdvisor/src/edu/calpoly/razsoftware/FlowcharterView.form
+END
+DegreechartReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/pineApple/!svn/ver/311/trunk/DegreeAdvisor/src/edu/calpoly/razsoftware/DegreechartReader.java
+END
+Requirement.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/pineApple/!svn/ver/323/trunk/DegreeAdvisor/src/edu/calpoly/razsoftware/Requirement.java
+END
+I_Flowchart.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/pineApple/!svn/ver/324/trunk/DegreeAdvisor/src/edu/calpoly/razsoftware/I_Flowchart.java
+END
+FakeCatalog.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/pineApple/!svn/ver/206/trunk/DegreeAdvisor/src/edu/calpoly/razsoftware/FakeCatalog.java
+END
+Database.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/pineApple/!svn/ver/330/trunk/DegreeAdvisor/src/edu/calpoly/razsoftware/Database.java
+END
+Catalog.txt
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/pineApple/!svn/ver/168/trunk/DegreeAdvisor/src/edu/calpoly/razsoftware/Catalog.txt
+END
+Contingent.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/pineApple/!svn/ver/186/trunk/DegreeAdvisor/src/edu/calpoly/razsoftware/Contingent.java
+END
+I_Requirement.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/pineApple/!svn/ver/323/trunk/DegreeAdvisor/src/edu/calpoly/razsoftware/I_Requirement.java
+END
+UpdateReqDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/pineApple/!svn/ver/350/trunk/DegreeAdvisor/src/edu/calpoly/razsoftware/UpdateReqDialog.java
+END
+DegreechartCsvToJsonConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/pineApple/!svn/ver/324/trunk/DegreeAdvisor/src/edu/calpoly/razsoftware/DegreechartCsvToJsonConverter.java
+END
+FakeFlowchart.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/pineApple/!svn/ver/253/trunk/DegreeAdvisor/src/edu/calpoly/razsoftware/FakeFlowchart.java
+END
+CourseCreator.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/pineApple/!svn/ver/330/trunk/DegreeAdvisor/src/edu/calpoly/razsoftware/CourseCreator.java
+END
+FakeCatalog1.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/pineApple/!svn/ver/241/trunk/DegreeAdvisor/src/edu/calpoly/razsoftware/FakeCatalog1.java
+END
+DesignOverview.html
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/pineApple/!svn/ver/327/trunk/DegreeAdvisor/src/edu/calpoly/razsoftware/DesignOverview.html
+END
+Controller.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/pineApple/!svn/ver/352/trunk/DegreeAdvisor/src/edu/calpoly/razsoftware/Controller.java
+END
+FakeRequirement.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/pineApple/!svn/ver/313/trunk/DegreeAdvisor/src/edu/calpoly/razsoftware/FakeRequirement.java
+END
+FakeCourse.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/pineApple/!svn/ver/270/trunk/DegreeAdvisor/src/edu/calpoly/razsoftware/FakeCourse.java
+END
+CourseList.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/pineApple/!svn/ver/322/trunk/DegreeAdvisor/src/edu/calpoly/razsoftware/CourseList.java
+END
+UpdateReqDialog.form
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/pineApple/!svn/ver/347/trunk/DegreeAdvisor/src/edu/calpoly/razsoftware/UpdateReqDialog.form
+END
